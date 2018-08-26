@@ -1,0 +1,16 @@
+
+
+.crystal {
+    display: flex;
+    justify-content: center;
+    border: 1px solid blue;
+    align-items: center; 
+}
+
+.crystal {
+    border: 1px solid green;
+    height: 200px
+    widthL 200px;
+}
+
+
